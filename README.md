@@ -9,3 +9,5 @@ The program makes the following assumptions in its calculations:
 2. If the book is old and required, 65% of students will buy the book
 3. If the book is old and suggested, only 20% of students will buy the book
 4. If the book is new and suggested, only 40% of students will buy the book
+
+The code is fairly simple and can be used as a skeleton for a more complex simulation (i.e. replacing the values with user input to be more accurate on a case to case basis)
